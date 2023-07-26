@@ -52,7 +52,7 @@ Category-wise Analysis: Pie chart and bar chart showing sales distribution acros
 Customer Analysis: Table displaying customer-related metrics, such as repeat purchases and customer loyalty, using Pivot Tables.
 
 # Running the Dashboard : 
-Open the "VRINDA STORE Dashboard.xlsx" file using Microsoft Excel.
+Open the "Vrinda Store Data Analysis.xlsx" file using Microsoft Excel.
 
 Explore the interactive dashboard and visualizations to gain insights into the store's performance.
 
